@@ -32,7 +32,7 @@ require "vendor/autoload.php";
 <div class= "page">
 <div class= "content">
 	<h1>Quiz Web Application Registration</h1>
-	<h3>Kindly register your basic information before starting the Quiz.</h3>
+	<h3>Kindly register your basic information before starting the exam.</h3>
 </div>
 <div class= "inner_content">
 	<form name= "myForm" method="POST" action="register.php">
