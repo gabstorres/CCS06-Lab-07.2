@@ -4,8 +4,6 @@ require "vendor/autoload.php";
 
 session_start();
 
-// 3.
-
 use App\QuestionManager;
 
 $number = null;
