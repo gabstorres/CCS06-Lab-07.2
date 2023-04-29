@@ -3,8 +3,6 @@
 require "vendor/autoload.php";
 
 session_start();
-// 2. Why do you think the session variable assignments are wrapped inside an if-else and try-catch statements?
-// _____________________________________________________________________
 
 try {
     if (isset($_POST['complete_name'])) {
